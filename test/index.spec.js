@@ -1,4 +1,4 @@
-const mockProducts = require("./mockProducts")
+const mockProducts = require("./mock/products")
 
 let {
   retrieveProductArray,
